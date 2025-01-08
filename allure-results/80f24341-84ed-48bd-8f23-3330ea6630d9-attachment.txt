@@ -1,0 +1,6 @@
+---total number of columns & rows----------------
+no of colums:  4
+no of rows:  5
+-----select check box for Smartwatch--------------
+------select multiple products by re-use function-------------
+----print all product details using loop same page---------------
